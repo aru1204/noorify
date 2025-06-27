@@ -302,7 +302,7 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 
 <p align="center">
   <a href="https://wa.me/8801755723636">
-  <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
 </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abidur-rahman-149239262/" target="_blank">
