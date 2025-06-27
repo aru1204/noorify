@@ -128,6 +128,90 @@ In the **Profile Page**, users can:
 
 ---
 
+## 🛡️ Admin Features
+
+Admins have full access to all user functionalities along with advanced control features for managing the platform. Here's a complete breakdown of admin capabilities:
+
+---
+
+### 🏠 1. Admin Home (Dashboard)
+
+- 📊 View total stats:
+  - Total Questions Asked
+  - Answered Questions
+  - Unanswered Questions
+  - Total Uploaded Videos
+  - Total Registered Users
+  
+- 🧠 Manage Questions:
+  - View all unanswered questions and provide answers
+  - View all answered questions and **edit** answers if needed
+  - Delete any question or answer at any time
+
+---
+
+### 👥 2. All Users Management
+
+- View the list of all registered users
+- ❌ Delete any **non-admin** user
+- 🔁 Promote any regular user to **Admin**
+- ⚠️ Cannot delete users who are already Admin
+
+---
+
+### ➕ 3. Add Product
+
+Admin can add new products by providing the following information:
+
+- 🖼️ Product Image
+- 🏷️ Name
+- 💰 Price
+- 📝 Description
+- 📁 Main Category
+- 🗂️ Sub-category
+- 🧾 Product Type (e.g. halal, religious, etc.)
+
+---
+
+### 🛠️ 4. Manage Products
+
+- View all uploaded products
+- ✏️ Edit any product details
+- ❌ Delete any product
+
+---
+
+### ❓ 5. Manage Questions
+
+This section duplicates the functionality of **Admin Home**'s question section:
+
+- View, answer, edit, or delete any question
+- Manage answers for both answered and unanswered questions
+
+---
+
+### 🎬 6. Manage Videos
+
+- View all uploaded videos
+- ✏️ Edit video titles
+- ❌ Delete videos
+
+---
+
+### 📦 7. Manage Orders
+
+- View all orders in a single panel
+- Filter orders by:
+  - ✅ Confirmed Orders
+  - 🔄 Processing Orders
+  - 🚚 Delivered Orders
+- ✏️ Update status of any order
+- ❌ Delete any order
+
+---
+
+✅ These powerful tools ensure that admins can fully manage platform content, users, products, and orders efficiently.
+
 
 ---
 
