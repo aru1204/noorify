@@ -301,10 +301,10 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 
 <p align="center">
   <a href="mailto:abidurrahman1204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me" />
+    <img src="https://img.shields.io/badge/Email-abidurrahman1204@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/your-github-aru1204" target="_blank">
+  <a href="https://github.com/aru1204" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
   &nbsp;
