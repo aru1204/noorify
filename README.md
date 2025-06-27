@@ -297,7 +297,7 @@ After downloading, go to the **noorify-server** folder and follow these steps:
   <strong>Abidur Rahman</strong><br/>
   💻 Full Stack Web Developer <br/>
   📍 Bangladesh <br/>
-  📧 **Email:** [abidurrahman1204@gmail.com](mailto:abidurrahman1204@gmail.com)  
+  📧 Email: <a href="mailto:abidurrahman1204@gmail.com">abidurrahman1204@gmail.com</a>
 </p>
 
 <p align="center">
