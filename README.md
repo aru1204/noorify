@@ -127,6 +127,7 @@ In the **Profile Page**, users can:
 - 🛠️ Can **edit or delete** orders **before delivery**
 
 ---
+---
 
 ## 🛡️ Admin Features
 
@@ -212,7 +213,7 @@ This section duplicates the functionality of **Admin Home**'s question section:
 
 ✅ These powerful tools ensure that admins can fully manage platform content, users, products, and orders efficiently.
 
-
+---
 ---
 
 ## 🛠️ How to Set Up the Website in Your Local Environment
