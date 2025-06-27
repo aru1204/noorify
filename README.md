@@ -301,9 +301,9 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 </p>
 
 <p align="center">
-  <a href="https://wa.me/8801755723636?text=Hello%2C%20I%20have%20a%20question%20about%20the%20Nurify%20project." target="_blank">
-    <img src="https://img.shields.io/badge/Ask%20on%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
-  </a>
+  <a href="https://wa.me/8801755723636">
+  <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/abidur-rahman-149239262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
