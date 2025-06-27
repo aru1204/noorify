@@ -283,3 +283,33 @@ After downloading, go to the **noorify-server** folder and follow these steps:
     <img src="https://img.shields.io/badge/Ask%20on%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="Ask on WhatsApp" />
   </a>
 </p>
+
+
+---
+
+## 👨‍💻 About the Developer
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" alt="Developer Avatar" />
+</p>
+
+<p align="center">
+  <strong>Abidur Rahman</strong><br/>
+  💻 Full Stack Web Developer <br/>
+  📍 Bangladesh <br/>
+</p>
+
+<p align="center">
+  <a href="mailto:abidurrahman1204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email Me" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/your-github-aru1204" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abidur-rahman-149239262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
+
