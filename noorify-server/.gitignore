@@ -1,0 +1,4 @@
+node_modules
+.env
+.vercel
+noorify-bd-firebase-adminsdk-fbsvc-467d704c1f.json

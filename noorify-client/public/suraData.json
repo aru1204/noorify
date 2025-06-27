@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "title": "Al-Fatiha",
+        "src": "/assets/suras/1.mp3"
+    },
+    {
+        "id": 2,
+        "title": "Al-Baqara",
+        "src": "/assets/suras/2.mp3"
+    },
+    {
+        "id": 3,
+        "title": "Aal-E-Imran",
+        "src": "/assets/suras/3.mp3"
+    },
+    {
+        "id": 4,
+        "title": "An-Nisa",
+        "src": "/assets/suras/4.mp3"
+    },
+    {
+        "id": 5,
+        "title": "Al-Ma'idah",
+        "src": "/assets/suras/5.mp3"
+    },
+    {
+        "id": 6,
+        "title": "Al-An'am",
+        "src": "/assets/suras/6.mp3"
+    },
+    {
+        "id": 7,
+        "title": "Al-A'raf",
+        "src": "/assets/suras/7.mp3"
+    },
+    {
+        "id": 8,
+        "title": "Al-Anfal",
+        "src": "/assets/suras/8.mp3"
+    },
+    {
+        "id": 9,
+        "title": "At-Tawba",
+        "src": "/assets/suras/9.mp3"
+    },
+    {
+        "id": 10,
+        "title": "Yunus",
+        "src": "/assets/suras/10.mp3"
+    },
+    {
+        "id": 11,
+        "title": "Hud",
+        "src": "/assets/suras/11.mp3"
+    },
+    {
+        "id": 12,
+        "title": "Yusuf",
+        "src": "/assets/suras/12.mp3"
+    },
+    {
+        "id": 13,
+        "title": "Ar-Ra'd",
+        "src": "/assets/suras/13.mp3"
+    },
+    {
+        "id": 14,
+        "title": "Ibrahim",
+        "src": "/assets/suras/14.mp3"
+    },
+    {
+        "id": 15,
+        "title": "Al-Hijr",
+        "src": "/assets/suras/15.mp3"
+    },
+    {
+        "id": 16,
+        "title": "An-Nahl",
+        "src": "/assets/suras/16.mp3"
+    },
+    {
+        "id": 17,
+        "title": "Al-Isra",
+        "src": "/assets/suras/17.mp3"
+    },
+    {
+        "id": 18,
+        "title": "Al-Kahf",
+        "src": "/assets/suras/18.mp3"
+    },
+    {
+        "id": 19,
+        "title": "Maryam",
+        "src": "/assets/suras/19.mp3"
+    },
+    {
+        "id": 20,
+        "title": "Ta-Ha",
+        "src": "/assets/suras/20.mp3"
+    },
+    {
+        "id": 21,
+        "title": "Al-Anbiya",
+        "src": "/assets/suras/21.mp3"
+    },
+    {
+        "id": 22,
+        "title": "Al-Hajj",
+        "src": "/assets/suras/22.mp3"
+    },
+    {
+        "id": 23,
+        "title": "Al-Mu'minun",
+        "src": "/assets/suras/23.mp3"
+    },
+    {
+        "id": 24,
+        "title": "An-Nur",
+        "src": "/assets/suras/24.mp3"
+    },
+    {
+        "id": 25,
+        "title": "Al-Furqan",
+        "src": "/assets/suras/25.mp3"
+    },
+    {
+        "id": 26,
+        "title": "Ash-Shu'ara",
+        "src": "/assets/suras/26.mp3"
+    },
+    {
+        "id": 27,
+        "title": "An-Naml",
+        "src": "/assets/suras/27.mp3"
+    },
+    {
+        "id": 28,
+        "title": "Al-Qasas",
+        "src": "/assets/suras/28.mp3"
+    },
+    {
+        "id": 29,
+        "title": "Al-Ankabut",
+        "src": "/assets/suras/29.mp3"
+    },
+    {
+        "id": 30,
+        "title": "Ar-Rum",
+        "src": "/assets/suras/30.mp3"
+    },
+    {
+        "id": 31,
+        "title": "Luqman",
+        "src": "/assets/suras/31.mp3"
+    },
+    {
+        "id": 32,
+        "title": "As-Sajda",
+        "src": "/assets/suras/32.mp3"
+    },
+    {
+        "id": 33,
+        "title": "Al-Ahzab",
+        "src": "/assets/suras/33.mp3"
+    },
+    {
+        "id": 34,
+        "title": "Saba",
+        "src": "/assets/suras/34.mp3"
+    },
+    {
+        "id": 35,
+        "title": "Fatir",
+        "src": "/assets/suras/35.mp3"
+    },
+    {
+        "id": 36,
+        "title": "Ya-Sin",
+        "src": "/assets/suras/36.mp3"
+    },
+    {
+        "id": 37,
+        "title": "As-Saffat",
+        "src": "/assets/suras/37.mp3"
+    },
+    {
+        "id": 38,
+        "title": "Sad",
+        "src": "/assets/suras/38.mp3"
+    },
+    {
+        "id": 39,
+        "title": "Az-Zumar",
+        "src": "/assets/suras/39.mp3"
+    },
+    {
+        "id": 40,
+        "title": "Ghafir",
+        "src": "/assets/suras/40.mp3"
+    },
+    {
+        "id": 41,
+        "title": "Fussilat",
+        "src": "/assets/suras/41.mp3"
+    },
+    {
+        "id": 42,
+        "title": "Ash-Shura",
+        "src": "/assets/suras/42.mp3"
+    },
+    {
+        "id": 43,
+        "title": "Az-Zukhruf",
+        "src": "/assets/suras/43.mp3"
+    },
+    {
+        "id": 44,
+        "title": "Ad-Dukhan",
+        "src": "/assets/suras/44.mp3"
+    },
+    {
+        "id": 45,
+        "title": "Al-Jathiya",
+        "src": "/assets/suras/45.mp3"
+    },
+    {
+        "id": 46,
+        "title": "Al-Ahqaf",
+        "src": "/assets/suras/46.mp3"
+    },
+    {
+        "id": 47,
+        "title": "Muhammad",
+        "src": "/assets/suras/47.mp3"
+    },
+    {
+        "id": 48,
+        "title": "Al-Fath",
+        "src": "/assets/suras/48.mp3"
+    },
+    {
+        "id": 49,
+        "title": "Al-Hujurat",
+        "src": "/assets/suras/49.mp3"
+    },
+    {
+        "id": 50,
+        "title": "Qaf",
+        "src": "/assets/suras/50.mp3"
+    },
+    {
+        "id": 51,
+        "title": "Adh-Dhariyat",
+        "src": "/assets/suras/51.mp3"
+    },
+    {
+        "id": 52,
+        "title": "At-Tur",
+        "src": "/assets/suras/52.mp3"
+    },
+    {
+        "id": 53,
+        "title": "An-Najm",
+        "src": "/assets/suras/53.mp3"
+    },
+    {
+        "id": 54,
+        "title": "Al-Qamar",
+        "src": "/assets/suras/54.mp3"
+    },
+    {
+        "id": 55,
+        "title": "Ar-Rahman",
+        "src": "/assets/suras/55.mp3"
+    },
+    {
+        "id": 56,
+        "title": "Al-Waqia",
+        "src": "/assets/suras/56.mp3"
+    },
+    {
+        "id": 57,
+        "title": "Al-Hadid",
+        "src": "/assets/suras/57.mp3"
+    },
+    {
+        "id": 58,
+        "title": "Al-Mujadila",
+        "src": "/assets/suras/58.mp3"
+    },
+    {
+        "id": 59,
+        "title": "Al-Hashr",
+        "src": "/assets/suras/59.mp3"
+    },
+    {
+        "id": 60,
+        "title": "Al-Mumtahina",
+        "src": "/assets/suras/60.mp3"
+    },
+    {
+        "id": 61,
+        "title": "As-Saff",
+        "src": "/assets/suras/61.mp3"
+    },
+    {
+        "id": 62,
+        "title": "Al-Jumu'a",
+        "src": "/assets/suras/62.mp3"
+    },
+    {
+        "id": 63,
+        "title": "Al-Munafiqoon",
+        "src": "/assets/suras/63.mp3"
+    },
+    {
+        "id": 64,
+        "title": "At-Taghabun",
+        "src": "/assets/suras/64.mp3"
+    },
+    {
+        "id": 65,
+        "title": "At-Talaq",
+        "src": "/assets/suras/65.mp3"
+    },
+    {
+        "id": 66,
+        "title": "At-Tahrim",
+        "src": "/assets/suras/66.mp3"
+    },
+    {
+        "id": 67,
+        "title": "Al-Mulk",
+        "src": "/assets/suras/67.mp3"
+    },
+    {
+        "id": 68,
+        "title": "Al-Qalam",
+        "src": "/assets/suras/68.mp3"
+    },
+    {
+        "id": 69,
+        "title": "Al-Haaqqa",
+        "src": "/assets/suras/69.mp3"
+    },
+    {
+        "id": 70,
+        "title": "Al-Ma'arij",
+        "src": "/assets/suras/70.mp3"
+    },
+    {
+        "id": 71,
+        "title": "Nuh",
+        "src": "/assets/suras/71.mp3"
+    },
+    {
+        "id": 72,
+        "title": "Al-Jinn",
+        "src": "/assets/suras/72.mp3"
+    },
+    {
+        "id": 73,
+        "title": "Al-Muzzammil",
+        "src": "/assets/suras/73.mp3"
+    },
+    {
+        "id": 74,
+        "title": "Al-Muddaththir",
+        "src": "/assets/suras/74.mp3"
+    },
+    {
+        "id": 75,
+        "title": "Al-Qiyama",
+        "src": "/assets/suras/75.mp3"
+    },
+    {
+        "id": 76,
+        "title": "Al-Insan",
+        "src": "/assets/suras/76.mp3"
+    },
+    {
+        "id": 77,
+        "title": "Al-Mursalat",
+        "src": "/assets/suras/77.mp3"
+    },
+    {
+        "id": 78,
+        "title": "An-Naba",
+        "src": "/assets/suras/78.mp3"
+    },
+    {
+        "id": 79,
+        "title": "An-Nazi'at",
+        "src": "/assets/suras/79.mp3"
+    },
+    {
+        "id": 80,
+        "title": "Abasa",
+        "src": "/assets/suras/80.mp3"
+    },
+    {
+        "id": 81,
+        "title": "At-Takwir",
+        "src": "/assets/suras/81.mp3"
+    },
+    {
+        "id": 82,
+        "title": "Al-Infitar",
+        "src": "/assets/suras/82.mp3"
+    },
+    {
+        "id": 83,
+        "title": "Al-Mutaffifin",
+        "src": "/assets/suras/83.mp3"
+    },
+    {
+        "id": 84,
+        "title": "Al-Inshiqaq",
+        "src": "/assets/suras/84.mp3"
+    },
+    {
+        "id": 85,
+        "title": "Al-Buruj",
+        "src": "/assets/suras/85.mp3"
+    },
+    {
+        "id": 86,
+        "title": "At-Tariq",
+        "src": "/assets/suras/86.mp3"
+    },
+    {
+        "id": 87,
+        "title": "Al-A'la",
+        "src": "/assets/suras/87.mp3"
+    },
+    {
+        "id": 88,
+        "title": "Al-Ghashiya",
+        "src": "/assets/suras/88.mp3"
+    },
+    {
+        "id": 89,
+        "title": "Al-Fajr",
+        "src": "/assets/suras/89.mp3"
+    },
+    {
+        "id": 90,
+        "title": "Al-Balad",
+        "src": "/assets/suras/90.mp3"
+    },
+    {
+        "id": 91,
+        "title": "Ash-Shams",
+        "src": "/assets/suras/91.mp3"
+    },
+    {
+        "id": 92,
+        "title": "Al-Lail",
+        "src": "/assets/suras/92.mp3"
+    },
+    {
+        "id": 93,
+        "title": "Ad-Duhaa",
+        "src": "/assets/suras/93.mp3"
+    },
+    {
+        "id": 94,
+        "title": "Ash-Sharh",
+        "src": "/assets/suras/94.mp3"
+    },
+    {
+        "id": 95,
+        "title": "At-Tin",
+        "src": "/assets/suras/95.mp3"
+    },
+    {
+        "id": 96,
+        "title": "Al-Alaq",
+        "src": "/assets/suras/96.mp3"
+    },
+    {
+        "id": 97,
+        "title": "Al-Qadr",
+        "src": "/assets/suras/97.mp3"
+    },
+    {
+        "id": 98,
+        "title": "Al-Bayyina",
+        "src": "/assets/suras/98.mp3"
+    },
+    {
+        "id": 99,
+        "title": "Az-Zalzala",
+        "src": "/assets/suras/99.mp3"
+    },
+    {
+        "id": 100,
+        "title": "Al-Adiyat",
+        "src": "/assets/suras/100.mp3"
+    },
+    {
+        "id": 101,
+        "title": "Al-Qari'a",
+        "src": "/assets/suras/101.mp3"
+    },
+    {
+        "id": 102,
+        "title": "At-Takathur",
+        "src": "/assets/suras/102.mp3"
+    },
+    {
+        "id": 103,
+        "title": "Al-Asr",
+        "src": "/assets/suras/103.mp3"
+    },
+    {
+        "id": 104,
+        "title": "Al-Humaza",
+        "src": "/assets/suras/104.mp3"
+    },
+    {
+        "id": 105,
+        "title": "Al-Fil",
+        "src": "/assets/suras/105.mp3"
+    },
+    {
+        "id": 106,
+        "title": "Quraish",
+        "src": "/assets/suras/106.mp3"
+    },
+    {
+        "id": 107,
+        "title": "Al-Ma'un",
+        "src": "/assets/suras/107.mp3"
+    },
+    {
+        "id": 108,
+        "title": "Al-Kawthar",
+        "src": "/assets/suras/108.mp3"
+    },
+    {
+        "id": 109,
+        "title": "Al-Kafiroon",
+        "src": "/assets/suras/109.mp3"
+    },
+    {
+        "id": 110,
+        "title": "An-Nasr",
+        "src": "/assets/suras/110.mp3"
+    },
+    {
+        "id": 111,
+        "title": "Al-Masad",
+        "src": "/assets/suras/111.mp3"
+    },
+    {
+        "id": 112,
+        "title": "Al-Ikhlas",
+        "src": "/assets/suras/112.mp3"
+    },
+    {
+        "id": 113,
+        "title": "Al-Falaq",
+        "src": "/assets/suras/113.mp3"
+    },
+    {
+        "id": 114,
+        "title": "An-Nas",
+        "src": "/assets/suras/114.mp3"
+    }
+]
