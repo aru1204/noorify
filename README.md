@@ -297,13 +297,10 @@ After downloading, go to the **noorify-server** folder and follow these steps:
   <strong>Abidur Rahman</strong><br/>
   💻 Full Stack Web Developer <br/>
   📍 Bangladesh <br/>
+  📧 **Email:** [abidurrahman1204@gmail.com](mailto:abidurrahman1204@gmail.com)  
 </p>
 
 <p align="center">
-  <a href="mailto:abidurrahman1204@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abidurrahman1204@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  &nbsp;
   <a href="https://wa.me/8801755723636?text=Hello%2C%20I%20have%20a%20question%20about%20the%20Nurify%20project." target="_blank">
     <img src="https://img.shields.io/badge/Ask%20on%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="WhatsApp" />
   </a>
