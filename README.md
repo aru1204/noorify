@@ -294,7 +294,7 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 </p>
 
 <p align="center">
-  <strong>Abidur Rahman</strong><br/>
+  <strong>Abid</strong><br/>
   💻 Full Stack Web Developer <br/>
   📍 Bangladesh <br/>
   📧 Email: abidurrahman1204@gmail.com
