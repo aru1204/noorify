@@ -270,3 +270,16 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 
 6. Set Firebase Admin SDK in this line in index.js **(const serviceAccount = require('./(firebase admin sdk)');)** for delete any user from firebase directly from admin panel.
 7. Run `nodemon index.js` for connect server to client.
+
+
+---
+
+<p align="center">
+  💬 Have a question about this project?
+</p>
+
+<p align="center">
+  <a href="https://wa.me/8801755723636?text=Hello%2C%20I%20have%20a%20question%20about%20the%20Nurify%20project." target="_blank">
+    <img src="https://img.shields.io/badge/Ask%20on%20WhatsApp-Click%20Here-brightgreen?style=for-the-badge&logo=whatsapp" alt="Ask on WhatsApp" />
+  </a>
+</p>
