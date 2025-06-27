@@ -23,6 +23,114 @@
 
 ---
 
+## 👤 User Features
+
+The website offers a rich set of features for regular users. Here’s a breakdown of what users can do:
+
+---
+
+### 🕌 1. Islamic Q&A with AI & Scholars
+
+- On the **Home Page**, users can:
+  - Ask any Islamic question to **Nurify AI**.
+  - Submit questions to **Islamic Scholars**.
+- All submitted questions are saved under the **"Your Questions"** section in the dashboard.
+
+---
+
+### 📂 2. Question Management
+
+In the **"Your Questions"** section:
+
+- Users can see **all questions** they asked.
+- Filter by:
+  - ✅ **Answered Questions**
+  - ⏳ **Unanswered Questions**
+- Actions available:
+  - ❌ Delete **any question**
+  - ✏️ Edit **unanswered questions only**
+  - ✅ Answered questions **cannot be edited**, only deleted
+
+---
+
+### 📞 3. Quick Contact Options
+
+At the bottom of the home page:
+
+- 📲 **Direct Call**
+- 💬 **WhatsApp Call**
+
+For fast responses from scholars or support.
+
+---
+
+### 🕓 4. Prayer Time
+
+- Users can see **daily prayer times** on the home page.
+
+---
+
+### 🎥 5. Islamic Content Streaming
+
+- Watch the latest **videos** released on the Nurify platform.
+- Listen to **Quran audio**:
+  - Divided by **Para**
+  - Divided by **Surah**
+
+---
+
+### 🛍️ 6. Shop (Halal & Religious Products)
+
+On the **Shop Page**, users can:
+
+- Browse **religious and halal products**
+- Add items to:
+  - ❤️ **Favorites**
+  - 🛒 **Cart**
+- Or click **Buy Now** to purchase directly.
+
+---
+
+### 🎬 7. Videos Page
+
+- Dedicated page to explore **all videos** uploaded to Nurify.
+
+---
+
+### 🙍‍♂️ 8. Profile Management
+
+In the **Profile Page**, users can:
+
+- 📝 Edit their **name**
+- 📧 View their **email**
+- ⏱️ See **last login**
+- 🛑 Use **Danger Zone** to **delete their account** permanently
+
+---
+
+### ❤️ 9. Favorites
+
+- See all products added to **favorites** in the profile.
+
+---
+
+### 🛒 10. Cart
+
+- See all products added to the **cart** in the profile.
+
+---
+
+### 📦 11. Your Orders
+
+- See all **orders placed**
+- View **status** of each order (e.g. pending, shipped)
+- 🛠️ Can **edit or delete** orders **before delivery**
+
+---
+
+
+---
+
 ## 🛠️ How to Set Up the Website in Your Local Environment
 
 To run this website on your own computer, follow the steps below:
