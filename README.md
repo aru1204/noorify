@@ -268,4 +268,5 @@ After downloading, go to the **noorify-server** folder and follow these steps:
     ACCESS_SECRET_TOKEN=366021a3625219eb70e934d809adbe1a1f6e86363ba3f5e103d5538df30fbdfdd91a0b1912169acce28344f50854bbdd489fec058c4c87e0963
     GEMINI_KEY=(Gemini API key)
 
-6. Run `nodemon index.js` for connect server to client.
+6. Set Firebase Admin SDK in this line in index.js **(const serviceAccount = require('./(firebase admin sdk)');)** for delete any user from firebase directly from admin panel.
+7. Run `nodemon index.js` for connect server to client.
