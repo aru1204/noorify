@@ -290,14 +290,14 @@ After downloading, go to the **noorify-server** folder and follow these steps:
 ## 👨‍💻 About the Developer
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius: 50%;" alt="Developer Avatar" />
+  <img src="https://avatars.githubusercontent.com/aru1204" width="120" style="border-radius: 50%;" alt="Developer Avatar" />
 </p>
 
 <p align="center">
   <strong>Abidur Rahman</strong><br/>
   💻 Full Stack Web Developer <br/>
   📍 Bangladesh <br/>
-  📧 Email: <a href="mailto:abidurrahman1204@gmail.com">abidurrahman1204@gmail.com</a>
+  📧 Email: abidurrahman1204@gmail.com
 </p>
 
 <p align="center">
