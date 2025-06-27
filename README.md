@@ -1,8 +1,13 @@
 <!-- Website Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Y44qxgyp/computer-view.png" alt="Website Banner" style="width:100%;" />
-  <img src="https://i.ibb.co/Z6FPtZdc/mobile-view.jpg" alt="Website Banner" style="" />
+  <!-- Full-width image -->
+  <img src="https://i.ibb.co/Y44qxgyp/computer-view.png" alt="Website Banner" width="100%" />
+
+  <!-- Natural-size image -->
+  <br />
+  <img src="https://i.ibb.co/Z6FPtZdc/mobile-view.jpg" alt="Mobile View" />
 </p>
+
 
 <!-- Live Website Button -->
 <p align="center">
